@@ -1,0 +1,4 @@
+django_ckeditor==6.0.0
+Django==3.1.5
+django_filter==2.4.0
+djangorestframework==3.12.2
